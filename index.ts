@@ -1,1 +1,1 @@
-console.log("this is indexz");
+console.log("this is inde");
