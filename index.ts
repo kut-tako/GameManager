@@ -1,1 +1,1 @@
-console.log("this is inde");
+console.log("thsis is inde");
